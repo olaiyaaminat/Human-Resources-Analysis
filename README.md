@@ -92,3 +92,16 @@ balanced, equitable and diverse work environment.
 
 The performance evaluation mode shows a rating of 5. This would aid in standardising evaluation criteria and identifying areas where performance assessment techniques need to
 be improved.
+
+
+###  MEASURE OF SPREAD OR DISPERSION (RANGE, VARIANCE & STANDAR DEVIATION)
+
+By analysing the measure of dispersion (range, variance &standard deviation) I selected 6 attributes which are age, bonus, base pay, seniority, department, performance evaluation. Firstly, I evaluated the range using 4 attributes which are age, bonus, base pay, and seniority because they are numeric or quantitative data which make it suitable for finding the range of value however, I also used a qualitative data (department) grouped by age to find the age range in each department. Using quantitative attributes enhances comprehension of how data points are distributed within these variables and the extent of variation.
+
+Going forward, I analysed the variance and standard deviation of the employee with 4 attributes (age, bonus, base pay, seniority, performance evaluation) which are all quantitative. I used the groupby function in python with qualitative data (department) to find variability of age across the department. The degree of variability within each dataset can be determined by analysing the attributes which aid with consistency by providing a numerical value that indicates how far each data point is from the mean. 
+
+As a workforce analyst I calculated the range to determine the spread between the minimum and maximum value within each attribute which provides an easy way to assess the degree of variation among attributes. The standard deviation and variance quantify the extent or degree or dispersion of the attributes. By investigating the dataset, I can make decision that will guide and develop initiatives that support and equitable and performance-based workplace.
+
+
+
+
