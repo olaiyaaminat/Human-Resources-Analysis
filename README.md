@@ -94,7 +94,7 @@ The performance evaluation mode shows a rating of 5. This would aid in standardi
 be improved.
 
 
-###  MEASURE OF SPREAD OR DISPERSION (RANGE, VARIANCE & STANDAR DEVIATION)
+###  MEASURE OF SPREAD OR DISPERSION (RANGE, VARIANCE & STANDARD DEVIATION)
 
 By analysing the measure of dispersion (range, variance &standard deviation) I selected 6 attributes which are age, bonus, base pay, seniority, department, performance evaluation. Firstly, I evaluated the range using 4 attributes which are age, bonus, base pay, and seniority because they are numeric or quantitative data which make it suitable for finding the range of value however, I also used a qualitative data (department) grouped by age to find the age range in each department. Using quantitative attributes enhances comprehension of how data points are distributed within these variables and the extent of variation.
 
